@@ -4,6 +4,7 @@
   This application built using Node.js, Express, Socket.io, Mongoose, RESTful Web Service.
   
   ![alt text](https://github.com/devAk-404/node-chat-app/blob/main/Join-page.png)
+  
   ![alt text](https://github.com/devAk-404/node-chat-app/blob/main/chat-room.png)
 
 # Features
