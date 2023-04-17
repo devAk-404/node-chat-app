@@ -4,7 +4,7 @@
   This application built using Node.js, Express, Socket.io, Mongoose, RESTful Web Service.
   
   ![alt text](https://github.com/devAk-404/node-chat-app/blob/main/Join-page.png)
-  
+
   ![alt text](https://github.com/devAk-404/node-chat-app/blob/main/chat-room.png)
 
 # Features
@@ -20,7 +20,7 @@
 Make sure you have Node.js and npm install.
 
   1. Clone or Download the repository 
-    <pre>git clone https://github.com/batuhaniskr/real-time-chat-application.git
+    <pre>git clone https://github.com/devAk-404/node-chat-app.git
     $ cd Real-Time-Chat-Application</pre>
   2. Install Dependencies
       <pre>npm install</pre>
